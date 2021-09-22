@@ -1,3 +1,8 @@
+/*BY:MOHD AIMAN SALEEM
+FINAL DRAFT:28-03-2021
+mail id:aimansaleemmohd@gmail.com
+*/
+
 #include <stdio.h>
 #include <math.h>
 
